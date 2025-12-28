@@ -2,7 +2,7 @@
 
 👋 **Hello World, Welcome!**
 
-"I’m **Farhan Andrianca Sany**, a Data Engineer & Analyst, Informatics graduate from **Universitas Islam Indonesia** and a **Hacktiv8** graduate. I specialize in transforming complex data into meaningful narratives that drive business growth. With a strong focus on automation and analytical problem-solving, I am dedicated to delivering impactful insights through data-driven strategies."
+I’m **Farhan Andrianca Sany**, a Data Engineer & Analyst, Informatics graduate from **Universitas Islam Indonesia** and a **Hacktiv8** graduate. I specialize in transforming complex data into meaningful narratives that drive business growth. With a strong focus on automation and analytical problem-solving, I am dedicated to delivering impactful insights through data-driven strategies.
 
 ---
 
@@ -20,6 +20,8 @@
 
 - **Hacktiv8 Data Science Bootcamp**  
   *Core Skills Developed*: Data Wrangling, Visualization, Statistical Analysis, Pipe Line Automation, SQL, and Feature Engineering
+- **Informatics Bachelor Universitas Islam Indonesia**
+  *Core Skills Developed*: Programing algoritm, Mobile and Website developing.
 
 ---
 ### 📫 **Connect with Me**
