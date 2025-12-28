@@ -20,9 +20,8 @@ I’m **Farhan Andrianca Sany**, a Data Engineer & Analyst, Informatics graduate
 
 - **Hacktiv8 Data Science Bootcamp**  
   *Core Skills Developed*: Data Wrangling, Visualization, Statistical Analysis, Pipe Line Automation, SQL, and Feature Engineering
-- **Informatics Bachelor Universitas Islam Indonesia**
- *Core Skills Developed*: Programing algoritm, Mobile and Website developing.
-
+- **Informatics Bachelor, Universitas Islam Indonesia**  
+  *Core Skills Developed*: Programing Algorithm, Web and Mobile App Developing Kit, Data Base Management
 ---
 ### 📫 **Connect with Me**
 
