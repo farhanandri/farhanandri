@@ -1,16 +1,30 @@
-## Hi there 👋
+# **Farhan Andrianca Sany - Data Analyst / Data Engineer**
 
-<!--
-**farhanandri/farhanandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hello World, Welcome!**
 
-Here are some ideas to get you started:
+"I’m **Farhan Andrianca Sany**, a Data Engineer & Analyst, Informatics graduate from **Universitas Islam Indonesia** and a **Hacktiv8** graduate. I specialize in transforming complex data into meaningful narratives that drive business growth. With a strong focus on automation and analytical problem-solving, I am dedicated to delivering impactful insights through data-driven strategies."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 **Skills**
+
+- **Languages**: Python
+- **Libraries**: Pandas, Great Expectation, Airflow, Pyspark  
+- **Data Analysis & Visualization**: Tableau, Pandas, Matplotlib  
+- **Database Management**: PostgreSQL  
+- **Other Skills**: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines
+
+---
+
+### 🎓 **Education**
+
+- **Hacktiv8 Data Science Bootcamp**  
+  *Core Skills Developed*: Data Wrangling, Visualization, Statistical Analysis, Pipe Line Automation, SQL, and Feature Engineering
+
+---
+### 📫 **Connect with Me**
+
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/farhan-andrianca-sany-2708bb236/)
+- **Email**: andriibo58@gmail.com
+
+---
